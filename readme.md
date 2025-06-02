@@ -1,6 +1,6 @@
 # **AQI预测与异常检测系统 (AQISystem\_v3.2)**
 # **本项目为本人在辅修“机器学习”的学习成果，内有许多不足之处，望大佬批评指正！感谢！**
-## **数据集来源于全国城市空气质量发布平台(https://air.cnemc.cn:18007/)，数据爬虫脚本见data_process**
+## **数据集来源于全国城市空气质量发布平台[https://air.cnemc.cn:18007/](url)，数据爬虫脚本见data_process**
 ## **目录**
 
 1. [项目概述](#bookmark=id.je0v2mfjzjtk)  
