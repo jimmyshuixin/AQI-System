@@ -1,0 +1,27 @@
+{
+    "model_architecture": {
+        "d_model": 64,
+        "nhead": 8,
+        "num_encoder_layers": 2,
+        "dim_feedforward": 128,
+        "dropout": 0.20248880601872649,
+        "norm_first": true
+    },
+    "look_back": 24,
+    "horizon": 24,
+    "target_col_name": "AQI",
+    "all_feature_columns_for_sequence": [
+        "PM2.5",
+        "PM10",
+        "SO2",
+        "NO2",
+        "O3",
+        "CO",
+        "hour_sin",
+        "hour_cos",
+        "AQI_lag_1",
+        "AQI_lag_2",
+        "AQI_lag_3"
+    ],
+    "num_input_features_for_model": 11
+}

@@ -1,0 +1,40 @@
+2025-06-02 09:12:19,752 - AQIMainApp - INFO - 全局日志记录已设置。所有控制台输出将记录到: model\output\logs\console_output_20250602_091219.log
+2025-06-02 09:12:19,753 - AQIMainApp - INFO - 系统当前使用的计算设备: cpu
+2025-06-02 09:12:19,753 - AQIMainApp - INFO - 
+2025-06-02 09:12:19,753 - AQIMainApp - INFO - 您好！请选择要执行的操作:
+2025-06-02 09:12:19,753 - AQIMainApp - INFO -  (1: 训练新模型)
+2025-06-02 09:12:19,754 - AQIMainApp - INFO -  (2: 评估现有模型性能)
+2025-06-02 09:12:19,754 - AQIMainApp - INFO -  (3: 使用现有模型进行预测)
+2025-06-02 09:12:19,754 - AQIMainApp - INFO -  (4: 使用现有模型检测异常数据)
+2025-06-02 09:12:19,754 - AQIMainApp - INFO - 请输入选项 (1-4):
+2025-06-02 09:12:36,367 - AQIMainApp - ERROR - Traceback (most recent call last):
+2025-06-02 09:12:36,367 - AQIMainApp - ERROR -   File "d:\code\projects\class\机器学习\AQI\model\AQISystem_v3.2.py", line 1632, in <module>
+2025-06-02 09:12:36,369 - AQIMainApp - ERROR - action = input("请输入选项 (1-4): ").strip()
+2025-06-02 09:12:36,369 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,370 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,370 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,370 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,370 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,370 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,371 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,371 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,371 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,371 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,371 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,372 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,372 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,372 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,373 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,373 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,373 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,373 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,374 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,374 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,374 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,374 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,374 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,374 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,375 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,375 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,375 - AQIMainApp - ERROR - ^
+2025-06-02 09:12:36,376 - AQIMainApp - ERROR - KeyboardInterrupt
