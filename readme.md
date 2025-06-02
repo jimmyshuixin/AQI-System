@@ -193,7 +193,7 @@ AQI\_Prediction\_System/
 
 ## **安装与环境配置**
 
-1. **Python环境**: 确保已安装Python 3.7或更高版本。建议使用虚拟环境（如venv或conda）。  
+1. **Python环境**: 确保已安装Python 3.7或更高版本(本项目基于3.12.10)。建议使用虚拟环境（如venv或conda）。  
    python \-m venv aqi\_env  
    source aqi\_env/bin/activate  \# Linux/macOS  
    \# aqi\_env\\Scripts\\activate   \# Windows
